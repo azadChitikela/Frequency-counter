@@ -36,6 +36,13 @@ This project implements a digital frequency counter using internal timers/counte
 ---
 
 ## 📜 Certification
-This project was completed as part of [Course/Organization Name, e.g., Embedded Systems Certification], demonstrating proficiency in hardware timers, embedded interrupts, and Keil development tools.
+This project was completed as part of summer intership, demonstrating proficiency in hardware timers, embedded interrupts, and Keil development tools.
 
-*(Optional: Add image/scan of certificate or project schematic in the repository assets)*
+# ⏱️ Microcontroller-Based Frequency Counter
+
+An embedded system project designed to measure and display signal frequencies in real-time. Built and simulated using **Keil µVision IDE** in **Embedded C**.
+
+🏆 **Certificate of Completion / Achievement Earned**
+
+---
+
